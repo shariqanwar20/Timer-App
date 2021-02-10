@@ -1,10 +1,6 @@
-/*
-Make A timer component with 3 buttons; start stop reset
-*/
-
-import React from 'react';
-import './App.css';
-import { Timer } from './Components/Timer';
+import React from "react";
+import "./App.css";
+import { Timer } from "./Components/Timer";
 
 function App() {
   return (

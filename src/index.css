@@ -10,6 +10,11 @@ body {
 
 #root {
   height: 100%;
+  background-image: linear-gradient(
+    to right,
+    rgb(70, 206, 131),
+    rgb(51, 164, 179)
+  );
 }
 
 code {
